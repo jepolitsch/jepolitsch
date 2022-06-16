@@ -1,7 +1,7 @@
 Hi 👋 My name is Julian Politsch 
 ================================  
 
-Cheminformatics 
+{Bio,Chemo} informatics
 ---------------  
 * 🌍  I'm based in Rome, IT
 * ✉️  You can contact me at [jepolitsch@gmail.com](mailto:jepolitsch@gmail.com)
