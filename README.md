@@ -3,9 +3,9 @@ Hi 👋 My name is Julian Politsch
 
 {Bio,Chemo} informatics
 ---------------  
-* 🌍  I'm based in Rome, IT
+* 🌍  I'm based in Madrid, ES
 * ✉️  You can contact me at [jepolitsch@gmail.com](mailto:jepolitsch@gmail.com)
-* 🚀  I'm currently working on [PyPharm](http://github.com/rome-center-for-molecular-design/py-pharm)
+* 🚀  I'm currently working on [PyPharm](http://github.com/rome-center-for-molecular-design/py-pharm), and studying computational biology at UPM
 
 ### Skills
 
