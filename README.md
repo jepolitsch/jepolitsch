@@ -7,13 +7,10 @@ Hi 👋 My name is Julian Politsch
 * ✉️  You can contact me at [jepolitsch@gmail.com](mailto:jepolitsch@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jepolitsch&label=Profile%20views&color=0e75b6&style=flat" alt="jepolitsch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jepolitsch" alt="jepolitsch" /></a> </p>
+* 🌱 I’m currently learning **C++ and C# for Unity**
 
-- 🌱 I’m currently learning **C++ and C# for Unity**
+* 📫 How to reach me **jepolitsch@gmail.com**
 
-- 📫 How to reach me **jepolitsch@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
