@@ -7,7 +7,7 @@ Hi 👋 My name is Julian Politsch
 * ✉️  You can contact me at [jepolitsch@gmail.com](mailto:jepolitsch@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jepolitsch&label=Profile%20views&color=0e75b6&style=flat" alt="jepolitsch" /> </p>
 
-* 🌱 I’m currently learning **C++ and C# for Unity**
+* 🌱 I’m currently a computational scientist at **HPCNow!**
 
 * 📫 How to reach me **jepolitsch@gmail.com**
 
